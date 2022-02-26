@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pet-r-off
 - 👀 I’m interested in FPGA and IoT development. 
-- 🌱 I’m currently learning 
 - 📫 How to reach me -> Inst:@pet_r_off 
 
 <!---
